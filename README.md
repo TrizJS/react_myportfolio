@@ -2,11 +2,6 @@
 
 A professional, responsive portfolio website built with React, Tailwind CSS, and Framer Motion to showcase my projects, skills, and experience as a web developer and digital media specialist.
 
-## Live Demo
-
-[View Live Demo](#) - Coming soon!
-
-## Features
 
 - **Responsive Design**: Optimized for all devices - mobile, tablet, and desktop
 - **Modern UI**: Clean and professional interface using Tailwind CSS and ShadCN components
@@ -89,9 +84,6 @@ A professional, responsive portfolio website built with React, Tailwind CSS, and
 
 This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to open an issue or reach out directly.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
