@@ -2,9 +2,6 @@
 
 A professional, responsive portfolio website built with React, Tailwind CSS, and Framer Motion to showcase my projects, skills, and experience as a web developer and digital media specialist.
 
-## Live Demo
-
-[View Live Demo](#) - Coming soon!
 
 ## Features
 
@@ -39,23 +36,17 @@ A professional, responsive portfolio website built with React, Tailwind CSS, and
 
 ## Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/TrizJS/react_myportfolio.git
-   cd react_myportfolio
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Run the development server**
+2. **Run the development server**
    ```bash
    npm run dev
    ```
 
-4. **Build for production**
+3. **Build for production**
    ```bash
    npm run build
    ```
@@ -89,9 +80,6 @@ A professional, responsive portfolio website built with React, Tailwind CSS, and
 
 This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to open an issue or reach out directly.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
